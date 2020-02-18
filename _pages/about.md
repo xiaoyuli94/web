@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D student in System Engineering at Boston University, supervised by [Prof.Francesco Orabona](http://francesco.orabona.com). I am a member of [OPTIMAL Lab](https://sites.google.com/view/optimal-lab/home). 
+Hello! I am a Ph.D student in System Engineering at Boston University, supervised by Prof. [Francesco Orabona](http://francesco.orabona.com). I am a member of [OPTIMAL Lab](https://sites.google.com/view/optimal-lab/home). 
 
 My research interests lie in theoretical machine learning and stochastic optimization. 
 
@@ -16,7 +16,6 @@ I was a Ph.D candidate at [Stony Brook University]. Before then, I received my B
 
 Publications
 ======
-paper list
 
 Experience
 ======
