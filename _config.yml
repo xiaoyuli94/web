@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyu Li (李晓宇)"
+title                    : "Xiaoyu Li"
 title_separator          : "-"
 name                     : &name "Xiaoyu Li"
 description              : &description "personal description"
