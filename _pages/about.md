@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a Ph.D student in System Engineering at Boston University, supervised by Prof. [Francesco Orabona](http://francesco.orabona.com). I am a member of [OPTIMAL Lab](https://sites.google.com/view/optimal-lab/home). 
 
-My research interests lie in theoretical machine learning and stochastic optimization. I am currently working on understanding and designing optimization methods in machine learning, especially in stochastic gradient descent, its variants and adaptive gradient descent methods. 
+My research interests lie in theoretical machine learning and stochastic optimization. I am currently working on understanding and designing optimization methods in machine learning, especially in stochastic gradient descent, its variants and adaptive gradient descent methods.   
 
 I was a Ph.D candidate at [Stony Brook University](https://www.stonybrook.edu). Before that, I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
 
