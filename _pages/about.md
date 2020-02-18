@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a Ph.D student in System Engineering at Boston University, supervised by Prof. [Francesco Orabona](http://francesco.orabona.com). I am a member of [OPTIMAL Lab](https://sites.google.com/view/optimal-lab/home). 
 
-My research interests lie in theoretical machine learning and stochastic optimization. I am currently working on understanding and designing optimization methods in machine learning, especially in stochastic gradient descent, its variants and adaptive gradient descent methods.   
+My research interests lie in theoretical machine learning and stochastic optimization. I currently work on understanding and designing optimization methods in machine learning, specifically, stochastic gradient descent and its variants, and adaptive gradient descent methods.   
 
 I was a Ph.D candidate at [Stony Brook University](https://www.stonybrook.edu). Before that, I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
 
@@ -19,11 +19,11 @@ I was a Ph.D candidate at [Stony Brook University](https://www.stonybrook.edu). 
 Publications and Preprints
 ======
 - <b>Exponential Step Sizes for Non-Convex Optimization</b>.       
- Xiaoyu Li*, Zhenxun Zhuang*, Francesco Orabona. arXiv preprints Feb. 2020. [paper](https://arxiv.org/abs/2002.05273)
+ <b>Xiaoyu Li\*</b>, Zhenxun Zhuang\*, Francesco Orabona. arXiv preprints Feb. 2020. [Paper](https://arxiv.org/abs/2002.05273)
 
 
 - <b>On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes</b>.                               
- Xiaoyu Li, Francesco Orabona. In  International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2019. [Paper](http://proceedings.mlr.press/v89/li19c)
+ <b>Xiaoyu Li</b>, Francesco Orabona. In  International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2019. [Paper](http://proceedings.mlr.press/v89/li19c)
 
 Working Experience
 ======

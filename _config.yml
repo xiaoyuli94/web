@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyu Li"
+title                    : "Xiaoyu Li (李晓宇)"
 title_separator          : "-"
-name                     : &name "Xiaoyu Li (李晓宇)"
+name                     : &name "Xiaoyu Li"
 description              : &description "personal description"
 url                      : https://xiaoyuli94.github.io/web/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
