@@ -18,7 +18,7 @@ Publications
 ======
 *Exponential Step Sizes for Non-Convex Optimization
 
-<b>Xiaoyu Li*</b>, Zhenxun Zhuang*, Francesco Orabona. In Submission 2020. [paper](https://arxiv.org/abs/2002.05273)
+<b>Xiaoyu Li</b>, Zhenxun Zhuang, Francesco Orabona. In Submission 2020. [paper](https://arxiv.org/abs/2002.05273)
 
 
 *On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes.
