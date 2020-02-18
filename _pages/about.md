@@ -16,6 +16,14 @@ I was a Ph.D candidate at [Stony Brook University](https://www.stonybrook.edu). 
 
 Publications
 ======
+*Exponential Step Sizes for Non-Convex Optimization
+
+<b>Xiaoyu Li*</b>, Zhenxun Zhuang*, Francesco Orabona. In Submission 2020. [paper](https://arxiv.org/abs/2002.05273)
+
+
+*On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes.
+
+<b>Xiaoyu Li</b>, Francesco Orabona. In  International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2019. [Paper](http://proceedings.mlr.press/v89/li19c)
 
 Experience
 ======
