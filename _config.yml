@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiaoyu Li"
 title_separator          : "-"
-name                     : &name "Xiaoyu Li"
+name                     : &name "Xiaoyu Li (李晓宇)"
 description              : &description "personal description"
 url                      : https://xiaoyuli94.github.io/web/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoyu Li (李晓宇)"
+  name             : "Xiaoyu Li"
   avatar           : "xy.png"
   bio              : "Ph.D in System Engineering at Boston University"
   location         : "Boston, MA"
