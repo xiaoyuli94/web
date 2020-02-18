@@ -24,10 +24,14 @@ Publications
 - <b>On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes</b>.                               
 <b>Xiaoyu Li</b>, Francesco Orabona. In  International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2019. [Paper](http://proceedings.mlr.press/v89/li19c)
 
-Experience
+Working Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+- Research Intern, Nokia Bell Labs, Murray Hill, NJ Mentor: [Carl Nuzman](https://www.bell-labs.com/usr/carl.nuzman)      
+Bla 
+
+Academic Service 
+----
+Reviewer of NeurIPS2019, AISTATS2020, ICML2020 
 
 
 
