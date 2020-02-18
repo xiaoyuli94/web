@@ -12,7 +12,7 @@ Hello! I am a Ph.D student in System Engineering at Boston University, supervise
 
 My research interests lie in theoretical machine learning and stochastic optimization. 
 
-I was a Ph.D candidate at [Stony Brook University]. Before then, I received my Bachelor degree in Math&Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn). 
+I was a Ph.D candidate at [Stony Brook University](https://www.stonybrook.edu). Before that, I received my Bachelor degree in Math&Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn). 
 
 Publications
 ======
