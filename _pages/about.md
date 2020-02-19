@@ -27,10 +27,11 @@ Publications and Preprints
 
 Experiences
 ======
+
 Work
 ---- 
 Research Intern @ Nokia Bell Labs, Murray Hill, NJ.    
-June - Aug. 2019  
+Host: [Carl Nuzman](https://www.bell-labs.com/usr/carl.nuzman)           June - Aug. 2019  
 
 Academic Service 
 ----
