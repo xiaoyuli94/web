@@ -27,8 +27,8 @@ Publications and Preprints
 
 Working Experience
 ======
-Jun.-Aug. 2019, Research Intern, Nokia Bell Labs, Murray Hill, NJ.    
-
+Research Intern @ Nokia Bell Labs, Murray Hill, NJ.    
+June - Aug. 2019
 Academic Service 
 ----
 Reviewer of NeurIPS2019, AISTATS2020, ICML2020 
