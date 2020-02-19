@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Xiaoyu Li"
-excerpt: "About me"
+title: "About me"
+excerpt: "Xiaoyu Li"
 author_profile: true
 redirect_from: 
   - /about/
