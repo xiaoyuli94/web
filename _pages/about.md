@@ -12,14 +12,14 @@ Hi, I am a Ph.D student in System Engineering at Boston University, supervised b
 
 My research interests lie in theoretical machine learning and stochastic optimization. I currently work on understanding and designing optimization methods in machine learning, specifically, stochastic gradient descent and its variants, and adaptive gradient descent methods.   
 
-I was a Ph.D candidate at [Stony Brook University](https://www.stonybrook.edu). Before that, I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
+I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
 
 [My CV](https://xiaoyuli94.github.io/files/mycv.pdf)
 
 Publications and Preprints
 ======
 - <b>Exponential Step Sizes for Non-Convex Optimization</b>.       
- <b>Xiaoyu Li\*</b>, Zhenxun Zhuang\*, Francesco Orabona. arXiv preprints Feb. 2020. [Paper](https://arxiv.org/abs/2002.05273)
+ <b>Xiaoyu Li</b>, Zhenxun Zhuang, Francesco Orabona. arXiv preprints Feb. 2020. [Paper](https://arxiv.org/abs/2002.05273) [Code](https://github.com/zhenxun-zhuang/SGD-Exponential-Stepsize)
 
 
 - <b>On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes</b>.                               
