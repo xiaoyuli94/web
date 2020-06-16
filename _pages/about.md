@@ -18,7 +18,7 @@ I received my Bachelor degree in Math and Applied Math from [University of Scien
 
 Publications and Preprints
 ======
-- <b>Exponential Step Sizes for Non-Convex Optimization</b>.       
+- <b>Exponential Step Sizes for Non-Convex SGD</b>.       
  <b>Xiaoyu Li</b>, Zhenxun Zhuang, Francesco Orabona. arXiv preprints Feb. 2020. [Paper](https://arxiv.org/abs/2002.05273) [Code](https://github.com/zhenxun-zhuang/SGD-Exponential-Stepsize)
 
 
