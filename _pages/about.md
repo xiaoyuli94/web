@@ -19,7 +19,7 @@ I received my Bachelor degree in Math and Applied Math from [University of Scien
 Publications and Preprints
 ======
 -  <b>A High Probability Analysis of Adaptive SGD with Momentum</b>.                               
- <b>Xiaoyu Li</b>, Francesco Orabona. ICML Workshop on <i>Beyond First Order Methods in ML Systems</i>, 2020.
+ <b>Xiaoyu Li</b>, Francesco Orabona. ICML Workshop on <i>Beyond First Order Methods in ML Systems</i>, 2020. [Paper](https://arxiv.org/abs/2007.14294) [Video](https://drive.google.com/file/d/1NlRfBisiuAcHjjEebiufpAyJUqE_kZTb/view)
 
 
 - <b>Exponential Step Sizes for Non-Convex SGD</b>.       
