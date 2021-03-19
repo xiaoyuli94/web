@@ -42,7 +42,7 @@ Host: [Carl Nuzman](https://www.bell-labs.com/usr/carl.nuzman)           June - 
 
 Academic Service 
 ----
-Reviewer of NeurIPS2019& 2020; AISTATS2020& 2021, ICLR 2021, ICML2020 & 2021
+Reviewer of NeurIPS2019 & 2020; AISTATS2020 & 2021;  ICLR 2021, ICML2020 & 2021
 
 
 
