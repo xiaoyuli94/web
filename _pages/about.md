@@ -14,7 +14,6 @@ My research interests lie in theoretical machine learning and stochastic optimiz
 
 I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
 
-[My CV](https://xiaoyuli94.github.io/files/mycv.pdf)
 
 Preprints
 ======
