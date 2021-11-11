@@ -37,7 +37,7 @@ Experiences
 Work
 ---- 
 - Applied Scientist Intern @ Amazon, Remote.                             June - Aug. 2021
-Research Intern @ Nokia Bell Labs, Murray Hill, NJ.                      June - Aug. 2019  
+- Research Intern @ Nokia Bell Labs, Murray Hill, NJ.                    June - Aug. 2019  
 
 Academic Service 
 ----
