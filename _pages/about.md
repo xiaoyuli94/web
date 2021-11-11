@@ -36,12 +36,12 @@ Experiences
 
 Work
 ---- 
-Research Intern @ Nokia Bell Labs, Murray Hill, NJ.    
-Host: [Carl Nuzman](https://www.bell-labs.com/usr/carl.nuzman)           June - Aug. 2019  
+- Applied Scientist Intern @ Amazon, Remote.                             June - Aug. 2021
+Research Intern @ Nokia Bell Labs, Murray Hill, NJ.                      June - Aug. 2019  
 
 Academic Service 
 ----
-Reviewer of NeurIPS2019 & 2020; AISTATS2020 & 2021;  ICLR 2021, ICML2020 & 2021
+Reviewer of NeurIPS2019 & 2020; AISTATS2020-2022;  ICLR 2021, ICML2020 & 2021
 
 
 
