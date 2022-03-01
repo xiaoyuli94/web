@@ -15,13 +15,16 @@ My research interests lie in theoretical machine learning and stochastic optimiz
 I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
 
 
-Preprints
+<!-- Preprints
 ======
 - <b>On the Last Iterate Convergence of Momentum Methods</b>.       
  <b>Xiaoyu Li</b>, Mingrui Liu, Francesco Orabona. arXiv preprints Feb. 2021. [Paper](https://arxiv.org/abs/2102.07002) 
- 
+  -->
  Publications
 ======
+- <b>On the Last Iterate Convergence of Momentum Methods</b>.       
+ <b>Xiaoyu Li</b>, Mingrui Liu, Francesco Orabona. ALT 2022. [Paper](https://arxiv.org/abs/2102.07002) 
+
 - <b>A Second look at Exponential and Cosine Step Sizes: Simplicity, Convergence, and Performance</b>.       
  <b>Xiaoyu Li</b>, Zhenxun Zhuang, Francesco Orabona. ICML 2021. [Paper](https://arxiv.org/abs/2002.05273) [Code](https://github.com/zhenxun-zhuang/SGD-Exponential-Stepsize)
 
