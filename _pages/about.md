@@ -15,11 +15,6 @@ My research interests lie in theoretical machine learning and stochastic optimiz
 I received my Bachelor degree in Math and Applied Math from [University of Science and Technology of China](http://en.ustc.edu.cn).  
 
 
-<!-- Preprints
-======
-- <b>On the Last Iterate Convergence of Momentum Methods</b>.       
- <b>Xiaoyu Li</b>, Mingrui Liu, Francesco Orabona. arXiv preprints Feb. 2021. [Paper](https://arxiv.org/abs/2102.07002) 
-  -->
  Publications
 ======
 - <b>On the Last Iterate Convergence of Momentum Methods</b>.       
